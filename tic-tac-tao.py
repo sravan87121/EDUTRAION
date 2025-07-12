@@ -1,3 +1,4 @@
+
 import math
 def show_board(board):
     for row in board:
